@@ -54,3 +54,8 @@ The analysis focused on:
 ![Screenshot (90)](https://github.com/user-attachments/assets/db23dbd1-56bd-49f9-bd41-10db369d7bf0)
 
 
+
+![Screenshot (91)](https://github.com/user-attachments/assets/8d30ca5e-247a-4bfd-989d-d637a6ab3352)
+![Screenshot (92)](https://github.com/user-attachments/assets/f829ffaa-0b31-4c16-a347-28a1583664c3)
+![Screenshot (93)](https://github.com/user-attachments/assets/719a1114-1a3b-4fa0-9dad-66d9aaf9e4cb)
+![Screenshot (94)](https://github.com/user-attachments/assets/d0646734-d12f-44df-9ed7-a06cdbc0cc06)
