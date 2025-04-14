@@ -1,12 +1,3 @@
-# CodeTech_Task1
-Name: Balpreet Kaur Rooprha 
-Company: Codetech IT Solutions & IT Consulting
-Id: CT6WETQ
-Domain: Data Analytics
-Duration: December20th to Feburary 5th 2025
-Mentor:
-
-
 EXPLORATORY DATA ANALYSIS IN PYTHON 
 
 ### **Objective**  
